@@ -1,16 +1,23 @@
-## Hi there 👋
+## 💻 Martin Pereira-Lima
 
-<!--
-**martin0pl/martin0pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actuellement étudiant en BUT Informatique à l’IUT d’Orsay, je me passionne pour l’informatique et
+toutes les technologies depuis le collège, en suivant l’actualité sur des sites spécialisés et en
+développant des scripts, en ayant commencé par Scratch pour ensuite développer en C++. Je
+m’intéresse également à la cybersécurité, en faisant de la veille quotidienne, en lisant des livres et
+en pratiquant sur des plateformes comme TryHackMe ou Hackropole, tout en prenant des notes.
 
-Here are some ideas to get you started:
+### Mes Compétences
+- Développement algorithmique / Python / C++
+- Système Linux
+- Base de données
+- HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mes Projets
+- Création d’un modèle de base de données pour une librairie
+- Chiﬀreur et déchiﬀreur du code César en Python
+- Générateur de mots de passe sécurisés en Python
+- Intégration optimisée du Crible d’Ératosthène en C++
+- Développement d’une liste de tâches dans le terminal en C++
+- Installation de Linux (Ubuntu) sur une machine personnelle
+- Portfolio en site internet
+- Site web d’une agence de voyage fictive
