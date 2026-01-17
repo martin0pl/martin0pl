@@ -21,6 +21,7 @@ en pratiquant sur des plateformes comme TryHackMe ou Hackropole, tout en prenant
 - Installation de Linux (Ubuntu) sur une machine personnelle
 - Portfolio en site internet
 - Site web d’une agence de voyage fictive
+- Script trieur de fichiers par extension
 
 ### Me contacter
 Email : martin.pereiralima@proton.me
