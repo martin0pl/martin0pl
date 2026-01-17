@@ -9,7 +9,7 @@ en pratiquant sur des plateformes comme TryHackMe ou Hackropole, tout en prenant
 ### Mes Compétences
 - Développement algorithmique / Python / C++
 - Système Linux
-- Base de données
+- Base de données / SQL
 - HTML / CSS
 
 ### Mes Projets
