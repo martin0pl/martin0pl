@@ -7,12 +7,13 @@ m’intéresse également à la cybersécurité, en faisant de la veille quotidi
 en pratiquant sur des plateformes comme TryHackMe ou Hackropole, tout en prenant des notes.
 
 ### Mes Compétences
-- Développement algorithmique / Python / C++
+- Développement algorithmique / Python / C++ / Go
 - Système Linux
 - Base de données / SQL
 - HTML / CSS
 
 ### Mes Projets
+- Liste de tâches dans le terminal en Go
 - Création d’un modèle de base de données pour une librairie
 - Chiﬀreur et déchiﬀreur du code César en Python
 - Générateur de mots de passe sécurisés en Python
@@ -21,7 +22,7 @@ en pratiquant sur des plateformes comme TryHackMe ou Hackropole, tout en prenant
 - Installation de Linux (Ubuntu) sur une machine personnelle
 - Portfolio en site internet
 - Site web d’une agence de voyage fictive
-- Script trieur de fichiers par extension
+- Script trieur de fichiers par extension en python
 
 ### Me contacter
 Email : martin.pereiralima@proton.me
