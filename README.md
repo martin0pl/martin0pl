@@ -13,18 +13,18 @@ en pratiquant sur des plateformes comme TryHackMe ou Hackropole, tout en prenant
 - HTML / CSS
 
 ### Mes Projets
-- Liste de tâches dans le terminal en Go : [GoOpenCliTodo](https://github.com/martin0pl/GoOpenCliTodo)
+- Liste de tâches dans le terminal en Go
 - Création d’un modèle de base de données pour une librairie
-- Chiﬀreur et déchiﬀreur du code César en Python [code](https://github.com/martin0pl/Code-Cesar)
-- Générateur de mots de passe sécurisés en Python [code](https://github.com/martin0pl/Generateur-Mots-de-passe)
+- Chiﬀreur et déchiﬀreur du code César en Python
+- Générateur de mots de passe sécurisés en Python
 - Intégration optimisée du Crible d’Ératosthène en C++
 - Développement d’une liste de tâches dans le terminal en C++
 - Installation de Linux (Ubuntu) sur une machine personnelle
 - Portfolio en site internet
-- Script trieur de fichiers par extension en Python : [code](https://github.com/martin0pl/trieur-par-extension)
+- Script trieur de fichiers par extension en Python
 - Site web d’une agence de voyage fictive
 
 ### Me contacter
 Email : martin.pereiralima@proton.me
 
-Mon site : martinpl.fr
+Mon site : [martinpl.fr](https://martinpl.fr)
