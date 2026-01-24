@@ -14,7 +14,7 @@ en pratiquant sur des plateformes comme TryHackMe ou Hackropole, tout en prenant
 - HTML / CSS
 
 ### Mes Projets
-- Liste de tâches dans le terminal en Go
+- App de liste de tâches en Go avec sauvegarde locale en JSON
 - Création d’un modèle de base de données pour une librairie
 - Chiﬀreur et déchiﬀreur du code César en Python
 - Générateur de mots de passe sécurisés en Python
