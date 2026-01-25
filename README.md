@@ -8,7 +8,7 @@ en pratiquant sur des plateformes comme TryHackMe ou Hackropole, tout en prenant
 
 ### Mes Compétences
 - Développement algorithmique / Python / C++
-- Bases de développement Go
+- Bases de développement Go et Rust
 - Système Linux
 - Base de données / SQL
 - HTML / CSS
