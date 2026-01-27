@@ -14,6 +14,7 @@ en pratiquant sur des plateformes comme Hackropole, tout en prenant des notes.
 - HTML / CSS
 
 ### Mes Projets
+- Script de traitement automatique du presse-papier en Rust pour résoudre une épreuve de CTF
 - App de liste de tâches en Go avec sauvegarde locale en JSON
 - Création d’un modèle de base de données pour une librairie
 - Chiﬀreur et déchiﬀreur du code César en Python
