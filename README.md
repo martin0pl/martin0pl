@@ -7,8 +7,8 @@ m’intéresse également à la cybersécurité, en faisant de la veille quotidi
 en pratiquant sur des plateformes comme Hackropole, tout en prenant des notes.
 
 ### Mes Compétences
-- Développement algorithmique / Python / C++
-- Bases de développement Go et Rust
+- Développement algorithmique / Python / C++ / Rust
+- Bases de développement Go
 - Système Linux
 - Base de données / SQL
 - HTML / CSS
