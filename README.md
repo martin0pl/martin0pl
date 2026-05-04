@@ -6,27 +6,6 @@ développant des scripts, en ayant commencé par Scratch pour ensuite développe
 m’intéresse également à la cybersécurité, en faisant de la veille quotidienne, en lisant des livres et
 en pratiquant sur des plateformes comme Hackropole, tout en prenant des notes.
 
-### Mes Compétences
-- Développement algorithmique / Python / C++ / Rust / Java
-- Bases de développement Go
-- Système Linux
-- Base de données / SQL
-- HTML / CSS
-
-### Mes Projets
-- Script de traitement automatique du presse-papier en Rust pour résoudre une épreuve de CTF
-- Script de sauvegarde du presse-papier en Rust
-- App de liste de tâches en Go avec sauvegarde locale en JSON
-- Création d’un modèle de base de données pour une librairie
-- Chiﬀreur et déchiﬀreur du code César en Python
-- Générateur de mots de passe sécurisés en Python
-- Intégration optimisée du Crible d’Ératosthène en C++
-- Développement d’une liste de tâches dans le terminal en C++
-- Installation de Linux (Ubuntu) sur une machine personnelle
-- Portfolio en site internet
-- Script trieur de fichiers par extension en Python
-- Site web d’une agence de voyage fictive
-
 ### Me contacter
 Email : martin.pereiralima@proton.me
 
